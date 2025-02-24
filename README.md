@@ -19,6 +19,3 @@ This Jupyter Notebook implements a Fake News Detection system using Natural Lang
 
 ## Dataset Source
 [Fake News Dataset](https://raw.githubusercontent.com/laxmimerit/fake-real-news-dataset/main/fake_or_real_news.csv)
-
-## License
-Free for learning and experimentation.
